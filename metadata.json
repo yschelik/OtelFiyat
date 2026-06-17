@@ -1,0 +1,8 @@
+{
+  "name": "Hotels.com: Otel Oda Fiyat Ayrıştırıcı",
+  "description": "Web sitesinden kopyalanan otel oda ve fiyat bilgilerini anında WhatsApp formatına dönüştüren araç.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
