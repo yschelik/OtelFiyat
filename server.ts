@@ -48,14 +48,14 @@ Lütfen bu metinden giriş tarihini (giris), çıkış tarihini (cikis) ve müsa
 
 Özellikle dikkat etmen gereken kurallar:
 1. Tarihler:
-   - Tatilbudur formatında: Genelde "Giriş" ve "Çıkış" başlıklarının alt satırlarındadır (Örn: "15 Temmuz Çar" -> "15 Temmuz Çarşamba").
+   - Tatilbudur formatında: Genelde "Giriş" ve "Çıkış" başlıklarının alt satırlarındadır (Örn: "15 Temmuz Çar" -> "15 Temmuz Çarşamba") veya yan yana sıkışık yazılıdır (Örn: "Giriş22 Haziran Pzt" -> "22 haziran", "Çıkış23 Haziran Sal" -> "23 haziran"). Ayları küçük harfle ve kısaltmaları tam aylara çevirecek şekilde Türkçe yaz.
    - Hotels.com formatında: "Giriş18 Haz" ve "Çıkış19 Haz" şeklindedir. Kısaltmaları tam aylara çevir (Örn: "Giriş18 Haz" -> "18 haziran", "Çıkış19 Haz" -> "19 haziran"). Ayları küçük harfle Türkçe yaz (Haz -> haziran, Tem -> temmuz vb.).
 2. Odalar ve Müsaitlik:
    - Tatilbudur formatında: Odalar "Yetişkin" ve "Gece" ibaresinden hemen öncedir.
    - Hotels.com formatında: Oda adları parantez içinde kısa adı barındırır (Örn: "Standard Oda Balkonsuz (Oxis)"). Bu durumda kısa adı (name) parantez içi ("Oxis"), tam adı (originalName) ise tüm başlık ("Standard Oda Balkonsuz (Oxis)") olmalıdır.
-   - Sadece MÜSAİT olan odaları çıkar. "boş odamız kalmadı" veya "müsait değil" yazan odaları kesinlikle dahil etme! Örneğin "Deluxe Oda, Deniz Manzaralı (Plati)" odasında "Boş odamız kalmadı" yazıyorsa onu alma.
+   - Sadece MÜSAİT olan odaları çıkar. "boş odamız kalmadı" veya "müsait değil" yazan odaları kesinlikle dahil etme! Örneğin "Deluxe Oda, Deniz Manzaralı (Plati)" odasında "Boş odamız kalmadı" veya "müsait değil veya sadece müşteri temsilcimiz" yazıyorsa onu kesinlikle alma.
 3. Fiyatlar:
-   - Tatilbudur formatında: "Toplam Fiyat" başlığının hemen altındaki ilk fiyattır (Örn: "17.500" veya "18.500").
+   - Tatilbudur formatında: "Toplam Fiyat" başlığının hemen altındaki veya yanındaki ilk fiyattır (Örn: "17.500" veya "10.500TL" -> "10.500"). TL ve benzeri ibareleri çıkartarak sadece sayısal formatı (Örn: "10.500") al.
    - Hotels.com formatında: Her odanın altında "Önceki fiyat 8.500 TL" ve "Şu anki fiyat 8.194 TL" şeklinde fiyatlar bulunabilir. Kullanıcı talebine göre oda fiyatını "Önceki fiyat" kısmından al (Örn: "Önceki fiyat 8.500 TL" -> "8.500"). Eğer o odaya ait sadece güncel fiyat varsa veya önceki fiyat yoksa güncel fiyatı al. TL vb. birimleri temizleyip sadece sayısal değeri (Örn: "8.500") formatında al.
 
 Kopyalanan Metin:

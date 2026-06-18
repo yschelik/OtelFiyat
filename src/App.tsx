@@ -504,6 +504,515 @@ Mansion Milia
 Büyükada
 "`;
 
+const SAMPLE_TATILBUDUR_NEW_PASTE = `"Mika Turizm Belge No : 3073
+tatilbudur.com
+Otel 
+
+
+Tur 
+Yaz Fırsatları
+Kampanyalar 
+
+
+
+Palais Büyükada (+12)
+Giriş22 Haziran Pzt
+Çıkış23 Haziran Sal
+2 Yetişkin 
+Kişi Sayısı
+Tatilbudur 
+İstanbul Otelleri 
+Adalar Otelleri 
+Büyükada Otelleri 
+Palais Büyükada (+12)
+Arama sonuçlarına geri dön
+
+ Tüm Fotoğraflar
+
+Palais Büyükada (+12)
+Genel Özellikler
+Odalar
+Havuz ve Plaj
+Favorilerime Ekle
+Paylaş
+Büyükada’nın merkezine yürüme mesafesinde olmakla beraber biraz daha izole ve sakin bir lokasyon isteyenlerin tercihi olan Palais Büyükada, zarafetiyle öne çıkmaktadır. Otelin mimarisi Köşk ve Yalı tipi yapılarının her ikisinden de izler taşır.
+
+Devamını Oku
+
+Öne Çıkan Özellikler
+Özel Plaj
+Açık Havuz
+Wİ-Fi
+Konum Bilgileri
+Palais Büyükada (+12) HaritaHaritada Göster
+Maden, Yılmaz Türk Cd. No:119, 34970 Adalar/İstanbul
+Mevkii:BüyükadaSabiha Gökçen Havalimanı17 kmJolly Joker Arena16 kmTümünü gör
+Kampanyalar
+
+
+Sepette ek %5 indirim
+
+
+
+Peşin Fiyatına 3 Taksit
+
+ Tesis ile ilgili notlar
+ Otele Giriş Saati : 14:00
+ Otelden Çıkış Saati : 12:00
+ Evcil Hayvan Kabul Ediyor mu ? : Hayır
+ Sigara İçilebilir mi ? : Hayır
+Konaklama için kişi sayısı tercihiniz
+Giriş22 Haziran Pzt
+Çıkış23 Haziran Sal
+Kişi Sayısı
+2 Yetişkin 
+Odalar
+Oxis Standart Balkonsuz Oda
+2 Yetişkin 1 Gece
+Oda Müsaitlik Takvimi
+
+
+
+
+
+
+Öne Çıkan Özellikler
+16 m2
+Ahşap Zemin *
+Bahçe Manzaralı *
+Tümünü Gör >
+Kriterlerinize en uygun oda
+İadesiz Oda Kahvaltı
+Son 1 Oda
+Taksit Seçenekleri
+
+TB Club Kazancın
+105 TB Puan
+En İyi Fiyat Garantisi
+Toplam Fiyat
+10.500TL
+Worldcard ile sepette %5
+9.975 TL
+
+Rezervasyon Yap
+Aloni Deluxe Deniz Manzaralı Bahçeli Oda
+2 Yetişkin 1 Gece
+Oda Müsaitlik Takvimi
+
+
+
+
+
+
+
+
+Öne Çıkan Özellikler
+20 m2
+Ahşap Zemin *
+Bahçe Alanı *
+Tümünü Gör >
+İadesiz Oda Kahvaltı
+Son 1 Oda
+Taksit Seçenekleri
+
+TB Club Kazancın
+135 TB Puan
+En İyi Fiyat Garantisi
+Toplam Fiyat
+13.500TL
+Worldcard ile sepette %5
+12.825 TL
+
+Rezervasyon Yap
+Neandros Deluxe Deniz Manzaralı Bahçeli Oda
+2 Yetişkin 1 Gece
+Oda Müsaitlik Takvimi
+
+
+
+
+
+
+
+
+
+
+
+Öne Çıkan Özellikler
+20 m2
+Ahşap Zemin *
+Bahçe Alanı *
+Tümünü Gör >
+İadesiz Oda Kahvaltı
+Son 1 Oda
+Taksit Seçenekleri
+
+TB Club Kazancın
+135 TB Puan
+En İyi Fiyat Garantisi
+Toplam Fiyat
+13.500TL
+Worldcard ile sepette %5
+12.825 TL
+
+Rezervasyon Yap
+Antigoni Suite Deniz Manzaralı Oda
+2 Yetişkin 1 Gece
+Oda Müsaitlik Takvimi
+
+
+
+
+
+
+
+
+
+
+Öne Çıkan Özellikler
+34 m2
+Ahşap Zemin *
+Bornoz & Terlik *
+Tümünü Gör >
+İadesiz Oda Kahvaltı
+Son 1 Oda
+Taksit Seçenekleri
+
+TB Club Kazancın
+145 TB Puan
+En İyi Fiyat Garantisi
+Toplam Fiyat
+14.500TL
+Worldcard ile sepette %5
+13.775 TL
+
+Rezervasyon Yap
+Plati Deluxe Deniz Manzaralı Bahçeli Oda
+2 Yetişkin 1 Gece
+Oda Müsaitlik Takvimi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Öne Çıkan Özellikler
+24 m2
+Ahşap Zemin *
+Bahçe Alanı *
+Tümünü Gör >
+İadesiz Oda Kahvaltı
+Son 1 Oda
+Taksit Seçenekleri
+
+TB Club Kazancın
+145 TB Puan
+En İyi Fiyat Garantisi
+Toplam Fiyat
+14.500TL
+Worldcard ile sepette %5
+13.775 TL
+
+Rezervasyon Yap
+Offiousa Deluxe Deniz Manzaralı Balkonlu Oda
+2 Yetişkin 1 Gece
+Oda Müsaitlik Takvimi
+
+
+
+
+
+
+
+
+
+
+
+Öne Çıkan Özellikler
+22 m2
+Bahçe Manzaralı *
+Balkon *
+Tümünü Gör >
+İadesiz Oda Kahvaltı
+Son 1 Oda
+Taksit Seçenekleri
+
+TB Club Kazancın
+159 TB Puan
+En İyi Fiyat Garantisi
+Toplam Fiyat
+15.950TL
+Worldcard ile sepette %5
+15.153 TL
+
+Rezervasyon Yap
+Prinkipo Suit Deniz Manzaralı Balkonlu Oda
+2 Yetişkin 1 Gece
+Oda Müsaitlik Takvimi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Öne Çıkan Özellikler
+32 m2
+Balkon *
+Balkonda Oturma Grubu *
+Tümünü Gör >
+İadesiz Oda Kahvaltı
+Son 1 Oda
+Taksit Seçenekleri
+
+TB Club Kazancın
+179 TB Puan
+En İyi Fiyat Garantisi
+Toplam Fiyat
+17.950TL
+Worldcard ile sepette %5
+17.053 TL
+
+Rezervasyon Yap
+Terevintos Suit Deniz Manzaralı Balkonlu Oda
+2 Yetişkin 1 Gece
+Oda Müsaitlik Takvimi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Öne Çıkan Özellikler
+26 m2
+Ahşap Zemin *
+Bahçe Alanı *
+Tümünü Gör >
+İadesiz Oda Kahvaltı
+Son 1 Oda
+Taksit Seçenekleri
+
+TB Club Kazancın
+179 TB Puan
+En İyi Fiyat Garantisi
+Toplam Fiyat
+17.950TL
+Worldcard ile sepette %5
+17.053 TL
+
+Rezervasyon Yap
+Proti Family Hamamli Balkonsuz Oda
+2 Yetişkin 1 Gece
+Oda Müsaitlik Takvimi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Öne Çıkan Özellikler
+42 m2
+Ahşap Zemin *
+Bahçe Manzaralı *
+Tümünü Gör >
+İadesiz Oda Kahvaltı
+Son 1 Oda
+Taksit Seçenekleri
+
+TB Club Kazancın
+199 TB Puan
+En İyi Fiyat Garantisi
+Toplam Fiyat
+19.950TL
+Worldcard ile sepette %5
+18.953 TL
+
+Rezervasyon Yap
+Pita Standart Balkonsuz Oda
+2 Yetişkin 1 Gece
+Oda Müsaitlik Takvimi
+
+
+
+
+
+
+
+Öne Çıkan Özellikler
+24 m2
+Bahçe Manzaralı *
+Balkonsuz *
+Tümünü Gör >
+İadesiz Oda Kahvaltı
+En İyi Fiyat Garantisi
+Tesis, belirtmiş olduğunuz tarihlerde müsait değil veya sadece müşteri temsilcimiz ile rezervasyon yaptırabilirsiniz. 0 850 333 3 333 telefondan bilgi alabilirsiniz.
+Halki Deluxe Deniz Manzaralı Balkonlu Oda
+2 Yetişkin 1 Gece
+Oda Müsaitlik Takvimi
+
+
+
+
+
+
+
+
+
+Öne Çıkan Özellikler
+22 m2
+Ahşap Zemin *
+Balkon *
+Tümünü Gör >
+İadesiz Oda Kahvaltı
+En İyi Fiyat Garantisi
+Tesis, belirtmiş olduğunuz tarihlerde müsait değil veya sadece müşteri temsilcimiz ile rezervasyon yaptırabilirsiniz. 0 850 333 3 333 telefondan bilgi alabilirsiniz.
+Genel Özellikler
+Büyükada’nın merkezine yürüme mesafesinde olmakla beraber biraz daha izole ve sakin bir lokasyon isteyenlerin tercihi olan Palais Büyükada, zarafetiyle öne çıkmaktadır. Otelin mimarisi Köşk ve Yalı tipi yapılarının her ikisinden de izler taşır. Bahçesinden içeriye adımınızı attığınız anda sizi yeşillikler içerisinde oldukça ferah bir bahçe ve rengârenk çiçekler karşılar. Kapısında aslan heykeli olan büyük ana kapı, en üst katta bulunan yüksek tavanlı üç farklı tipte odaya açılır. Aynı katta bulunan ortak kullanımlı ve otelin en yüksek manzara noktası olan teras, sabah kahvaltılarının vazgeçilmez konumudur. Bir kat aşağısı yine birbirinden farklı tasarımı ve hepsinin de kendine has tasarımı, kullanım avantajları olan üç odanın yanı sıra, çoğunlukla kahve keyfi yapmayı sevenlerin tercihi olan ortak kullanımlı balkon, alternatif bir dinlenme alanı sunmaktadır. Bu katın da altındaki katta bulunan bitişik nizamlı üç oda ise güne deniz manzarası ile uyanmayı ve çıplak ayakla çimlere basmayı, doğayı hissederek yaşamayı sevenlerin öncelikli tercihidir. Diğer tüm odalardan daha bağımsız olan “Terevintos” nam-ı diğer kaptan köşkü ise kendine özel tatlı küçük balkonundan panoramik şekilde seyredilen sedef adasının manzarasıyla en romantik odalarımızdan biridir.
+
+Şehrin kalabalığından, gürültüsünden, hengamesinden kaçanların tercihi Palais Büyükada dahilindeki havuz, havuz başı minibar ve iskele gibi seçenekleriyle, misafirlerimize otelin dışına çıkmaya bile gerek kalmadan her anlamda keyifli, dolu dolu bir tatil keyfi yaşatmayı amaçlamaktadır.
+
+Otelin her konumundan gündüzleri sedef adasının ve uçsuz bucaksız deniz manzarasının, akşamları ise sol yanımızda kalan istanbulun ışıl ışıl şehir ışıklarını seyretmek mümkündür.
+
+ 
+
+Mini Bar *
+Oda Servisi *
+Telefon
+Emanet Kasa
+İnternet *
+Split Klima
+Wi-fi *
+Restaurant & Bar *
+Ön Büro
+Uyandırma Servisi *
+TV Odası
+Aile Hamamı *
+Sigara İçilmeyen Odalar
+Su
+Yetişkin Oteli (+12) *
+Concierge Hizmeti
+
+* ile işaretli özellikler ücretlidir.
+Daha Fazla Göster
+Havuz ve Plaj
+ 
+
+Çakıllı Plaj
+Açık Havuz
+Şemsiye
+İskele
+Karma Havuz
+
+* ile işaretli özellikler ücretlidir.
+Daha Fazla Göster
+
+
+
+
+Popüler Yurtiçi Oteller
+Didim OtelleriMarmaris OtelleriBodrum OtelleriÇeşme OtelleriKemer OtelleriDatça OtelleriAntalya OtelleriAlanya Otelleri
+tatilbudur.com
+Mika Turizm Belge No : 3073
+İletişim
+0 850 333 3 333
+Biz sizi arayalım
+Tesisinizi Kaydedin
+Müşteri İlişkileri
+Öne Çıkan Kategoriler
+Erken Rezervasyon
+Kış Otelleri
+Ücretsiz Gece Kampanyası
+Yılbaşı Otelleri
+Hafta Sonu Otelleri
+Otel Ara
+Uçuş Ara
+Tur Ara
+Kampanyalar
+İzmir Otelleri
+İstanbul Otelleri
+Ankara Otelleri
+Termal Oteller
+Kıbrıs Otelleri
+Yurtdışı Turları
+Kayak Otelleri
+Haftasonu Turları
+Tatil Kampanyaları
+TatilBudur
+Hakkımızda
+İletişim
+İnsan Kaynakları
+Şubelerimiz
+Şube Başvuru Formu
+Banka Hesaplarımız
+Kütahya Çizelgesi
+Bilgi Toplumu Hizmetleri
+Yatırımcı İlişkileri
+Rezervasyon
+Nasıl Rezervasyon Yapılır?
+Grup Rezervasyon Talebi
+TatilBudur App
+TatilBudur Mobile App QR Kod
+İndirmek için
+QR Kodu Tarayın
+Bizi Takip Edin
+TatilBudur Blog
+Afişe edilen tüm fiyatlar, ilgili üründe kontenjan olması durumunda geçerli olup seçeceğiniz döneme göre fiyatlar değişkenlik gösterebilir.
+Sözleşmeler & KVKK
+Kullanıcı Sözleşmesi
+Gizlilik Sözleşmesi
+Tur/Otel Satış Sözleşmesi
+Kişisel Verilerin Korunması
+Copyright © 1997-2026 TatilBudur.com. Tüm hakları saklıdır. TatilBudur.com bir TatilBudur Seyahat Acenteliği ve Turizm A.Ş ürünüdür. #62
+VisaMastercardTroyGlobal SignIATAISO
+TÜRSAB Tatilbudur
+Türkiye Seyahat Acentaları Birliği
+Etbis Tatilbudur
+
+ Bugün 34 kişi bu oteli inceledi!🚀
+×"
+`;
+
 const CATALOG_LINKS: Record<string, string> = {
   prinkipo: "https://wa.me/p/9221009574675419/905378258288",
   terevintos: "https://wa.me/p/9758634994158600/905378258288",
@@ -755,7 +1264,7 @@ export default function App() {
       for (let i = 0; i < lines.length; i++) {
         const line = lines[i].trim();
         
-        const girisMatch = line.match(/Giriş\s*:?\s*(\d+)\s*([a-zA-ZğüşıöçĞÜŞİÖÇ]+)/i);
+        const girisMatch = line.match(/(?:Giriş|Giris)\s*:?\s*(\d+)\s*([a-zA-ZğüşıöçĞÜŞİÖÇ]+)/i);
         if (girisMatch) {
           const day = girisMatch[1];
           const rawMonth = girisMatch[2];
@@ -763,7 +1272,7 @@ export default function App() {
           resolvedGiris = `${day} ${expandedMonth}`;
         }
 
-        const cikisMatch = line.match(/Çıkış\s*:?\s*(\d+)\s*([a-zA-ZğüşıöçĞÜŞİÖÇ]+)/i);
+        const cikisMatch = line.match(/(?:Çıkış|Cikis)\s*:?\s*(\d+)\s*([a-zA-ZğüşıöçĞÜŞİÖÇ]+)/i);
         if (cikisMatch) {
           const day = cikisMatch[1];
           const rawMonth = cikisMatch[2];
@@ -952,9 +1461,11 @@ export default function App() {
           if (tfIndex !== -1) {
             for (let offset = 1; offset <= 3; offset++) {
               if (tfIndex + offset < roomLines.length) {
-                const val = roomLines[tfIndex + offset];
-                if (/^\d{1,3}(\.\d{3})+$/.test(val) || /^\d+$/.test(val)) {
-                  price = val;
+                const val = roomLines[tfIndex + offset].trim();
+                // Strip "TL", whitespace, and non-digit/non-dot characters
+                const cleanedVal = val.replace(/tl/i, "").replace(/[^\d.]/g, "").trim();
+                if (/^\d{1,3}(\.\d{3})+$/.test(cleanedVal) || /^\d+$/.test(cleanedVal)) {
+                  price = cleanedVal;
                   break;
                 }
               }
@@ -1042,6 +1553,11 @@ export default function App() {
   // Handle Demo Fill action
   const fillSampleTatilbudur = () => {
     setInputText(SAMPLE_TATILBUDUR_PASTE);
+    setParseMode("local");
+  };
+
+  const fillSampleTatilbudurNew = () => {
+    setInputText(SAMPLE_TATILBUDUR_NEW_PASTE);
     setParseMode("local");
   };
 
@@ -1176,6 +1692,14 @@ export default function App() {
               Örnek Tatilbudur Yükle
             </button>
             <button 
+              onClick={fillSampleTatilbudurNew}
+              className="flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold bg-indigo-500/20 text-indigo-300 border border-indigo-500/30 rounded-lg hover:bg-indigo-500/30 hover:text-white transition-all shadow-sm cursor-pointer"
+              id="load-tatilbudurnew-btn"
+            >
+              <BookOpen className="w-3.5 h-3.5" />
+              Örnek Tatilbudur 2 (Kampanyalı) Yükle
+            </button>
+            <button 
               onClick={clearApp}
               className="flex items-center gap-1.5 px-3 py-1.5 text-xs font-medium bg-rose-500/10 text-rose-400 hover:bg-rose-500/20 border border-rose-500/20 rounded-lg transition-all cursor-pointer"
               id="clear-app-btn"
@@ -1199,33 +1723,6 @@ export default function App() {
                 <FileText className="w-4 h-4 text-slate-500" />
                 <h2 className="text-sm font-semibold text-slate-700">Adım 1: Kopyalanan Sayfa Metnini Yapıştırın</h2>
               </div>
-              
-              {/* Mode Selector */}
-              <div className="flex bg-slate-200 p-0.5 rounded-lg border border-slate-300">
-                <button
-                  onClick={() => setParseMode("local")}
-                  className={`px-2.5 py-1 text-xs font-medium rounded-md transition-all ${
-                    parseMode === "local" 
-                      ? "bg-white text-slate-900 shadow-xs" 
-                      : "text-slate-600 hover:text-slate-900"
-                  }`}
-                  title="Anında browser-side algoritmik ayrıştırma (Çevrimdışı & Güvenli)"
-                >
-                  Jet Hızlı (Local)
-                </button>
-                <button
-                  onClick={() => setParseMode("ai")}
-                  className={`px-2.5 py-1 text-xs font-medium rounded-md flex items-center gap-1 transition-all ${
-                    parseMode === "ai" 
-                      ? "bg-indigo-600 text-white shadow-xs" 
-                      : "text-slate-600 hover:text-indigo-600"
-                  }`}
-                  title="Gemini AI ile çok dilli ve esnek sayfa analizi"
-                >
-                  <Sparkles className="w-3 h-3" />
-                  Yapay Zeka (AI)
-                </button>
-              </div>
             </div>
 
             <div className="p-4 flex flex-col gap-3">
@@ -1236,6 +1733,15 @@ export default function App() {
                 className="w-full h-80 px-4 py-3 text-slate-700 placeholder-slate-400 bg-slate-50 border border-slate-200 rounded-xl focus:bg-white focus:outline-hidden focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition-all font-mono text-xs leading-relaxed resize-none"
                 id="main-paste-area"
               />
+
+              <button
+                onClick={clearApp}
+                className="w-full flex items-center justify-center gap-2 py-2.5 bg-rose-50/80 text-rose-600 hover:bg-rose-100/90 border border-rose-200/60 rounded-xl font-semibold text-sm transition-all shadow-xs cursor-pointer"
+                id="textarea-clear-btn"
+              >
+                <Trash2 className="w-4 h-4" />
+                Tümünü Temizle / Sıfırla
+              </button>
 
               {parseMode === "ai" && (
                 <div className="flex items-center justify-between gap-3 p-3 bg-indigo-50 border border-indigo-100 rounded-xl">
@@ -1613,8 +2119,8 @@ export default function App() {
       </main>
 
       {/* Small informative Footer */}
-      <footer className="py-4 px-6 bg-slate-100 border-t border-slate-200 text-center text-slate-400 text-xs">
-        <p>© 1997-2026 Otel Oda ve Fiyat Paylaşım Aracı. Hızlı ve Pratik.</p>
+      <footer className="py-4 px-6 bg-slate-100 border-t border-slate-200 text-center text-slate-400 text-xs font-semibold tracking-wider">
+        <p>PALAIS 2026</p>
       </footer>
     </div>
   );
