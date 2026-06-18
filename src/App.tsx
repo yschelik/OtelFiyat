@@ -509,7 +509,7 @@ const CATALOG_LINKS: Record<string, string> = {
   terevintos: "https://wa.me/p/9758634994158600/905378258288",
   offiousa: "https://wa.me/p/9549534768464363/905378258288",
   proti: "https://wa.me/p/9633761176691796/905378258288",
-  pita: "https://wa.me/p/9677675818960656/905378258288",
+  pita1: "https://wa.me/p/9677675818960656/905378258288",
   oxis: "https://wa.me/p/9509723872459567/905378258288",
   antigoni: "https://wa.me/p/29329497843361140/905378258288",
   aloni: "https://wa.me/p/9575155225932000/905378258288",
