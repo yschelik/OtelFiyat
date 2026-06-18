@@ -509,7 +509,7 @@ const CATALOG_LINKS: Record<string, string> = {
   terevintos: "https://wa.me/p/9758634994158600/905378258288",
   offiousa: "https://wa.me/p/9549534768464363/905378258288",
   proti: "https://wa.me/p/9633761176691796/905378258288",
-  pita1: "https://wa.me/p/9677675818960656/905378258288",
+  pita: "https://wa.me/p/9677675818960656/905378258288",
   oxis: "https://wa.me/p/9509723872459567/905378258288",
   antigoni: "https://wa.me/p/29329497843361140/905378258288",
   aloni: "https://wa.me/p/9575155225932000/905378258288",
@@ -521,6 +521,39 @@ const CATALOG_LINKS: Record<string, string> = {
 const getCatalogLink = (roomName: string): string => {
   const clean = roomName.trim().toLowerCase().split(/\s+/)[0];
   return CATALOG_LINKS[clean] || "";
+};
+
+const ROOM_NAME_MAP: Record<string, string> = {
+  "prinkipo": "Prinkipo Suit Deniz Manzaralı Balkonlu Oda",
+  "proti": "Proti Hamamlı Family İki Yatak Odalı Balkonsuz Oda",
+  "terevintos": "Terevintos Suit Deniz Manzaralı Balkonlu Oda",
+  "pita": "Pita Standart Balkonsuz Oda",
+  "oxis": "Oxis Standart Balkonsuz Oda",
+  "antigoni": "Antigoni Suite Kısmi Deniz Manzaralı Balkonsuz Oda",
+  "aloni": "Aloni Deluxe Deniz Manzaralı Bahçeli Oda",
+  "neandros": "Neandros Deluxe Deniz Manzaralı Bahçeli Oda",
+  "halki": "Halki Deluxe Deniz Manzaralı Balkonlu Oda",
+  "offiousa": "Offiousa Deluxe Deniz Manzaralı Balkonlu Oda",
+  "plati": "Plati Deluxe Deniz Manzaralı Bahçeli Oda"
+};
+
+const getMappedRoomName = (name: string): string => {
+  const cleanName = name.trim();
+  // Strip parentheses and get the first word in lowercase to match key
+  const firstWord = cleanName.split(/\s+/)[0].replace(/[()]/g, "").toLowerCase();
+  
+  if (ROOM_NAME_MAP[firstWord]) {
+    return ROOM_NAME_MAP[firstWord];
+  }
+  
+  const wholeLower = cleanName.toLowerCase();
+  for (const [key, value] of Object.entries(ROOM_NAME_MAP)) {
+    if (wholeLower.includes(key)) {
+      return value;
+    }
+  }
+  
+  return cleanName;
 };
 
 const parseTrDate = (dateStr: string): Date | null => {
@@ -871,7 +904,7 @@ export default function App() {
           if (price) {
             parsedRooms.push({
               id: `hotels-${r}-${Date.now()}`,
-              name: hotelsRoomTriggers[r].shortName,
+              name: getMappedRoomName(hotelsRoomTriggers[r].shortName),
               originalName: hotelsRoomTriggers[r].title,
               price: price,
               checked: true
@@ -932,7 +965,7 @@ export default function App() {
             const firstWord = roomTriggers[r].title.split(" ")[0];
             parsedRooms.push({
               id: `${r}-${Date.now()}`,
-              name: firstWord,
+              name: getMappedRoomName(firstWord),
               originalName: roomTriggers[r].title,
               price: price,
               checked: true
@@ -981,7 +1014,7 @@ export default function App() {
       if (data.rooms && Array.isArray(data.rooms)) {
         const resolvedRooms: ParsedRoom[] = data.rooms.map((r: any, idx: number) => ({
           id: `ai-${idx}-${Date.now()}`,
-          name: r.name,
+          name: getMappedRoomName(r.name),
           originalName: r.originalName || r.name,
           price: r.price,
           checked: true
@@ -1057,6 +1090,9 @@ export default function App() {
       } else if (nameCleaningMode === "first-word") {
         displayName = r.name.split(" ")[0]; // ensure first word only
       }
+      
+      // Map to beautiful custom user-defined Turkish titles
+      displayName = getMappedRoomName(displayName);
       
       const priceStr = getDisplayPrice(r.price, roundDown);
       const catalogUrl = getCatalogLink(r.name);
