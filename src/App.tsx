@@ -1295,7 +1295,7 @@ export default function App() {
               </div>
 
               {/* Editable Room List */}
-              <div className="flex-1 overflow-y-auto max-h-[320px]">
+              <div className="flex-1 overflow-y-auto max-h-[650px]">
                 <table className="w-full text-left border-collapse">
                   <thead>
                     <tr className="bg-slate-50 border-b border-slate-200 text-slate-400 font-medium text-[11px] uppercase tracking-wider">
